@@ -19,6 +19,9 @@
     "url": "https://github.com/shahhrahman/YouShouldKnow/issues"
   },
   "homepage": "https://github.com/shahhrahman/YouShouldKnow#readme",
+  "bin": {
+    "youshouldknow": "./index.js"
+  },
   "dependencies": {
     "colors": "^1.3.3",
     "superagent": "^4.1.0"
